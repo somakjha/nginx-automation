@@ -1,1 +1,1 @@
-# nginx-automation
+# nginx-automations
