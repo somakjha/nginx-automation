@@ -1,5 +1,5 @@
 ---
 - hosts: all
   tasks:
-  - name: Print Hello World
+  - name: Print Hello World task
     debug: msg="Hello World"
